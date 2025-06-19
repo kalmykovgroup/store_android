@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">store</string>
+    <string name="add_product_dialog_title">Добавление товара</string>
+    <string name="image_preview_description">Превью изображения</string>
+    <string name="choose_image_button">Выбрать изображение</string>
+    <string name="name_label">Название</string>
+    <string name="enter_name_error">Введите название</string>
+    <string name="price_label">Цена</string>
+    <string name="enter_price_error">Введите корректную цену</string>
+    <string name="description_label">Описание</string>
+    <string name="add_button">Добавить</string>
+    <string name="cancel_button">Отмена</string>
+
+    <string name="error_loading_products">Ошибка загрузки товаров</string>
+    <string name="error_uploading_image">Ошибка загрузки изображения</string>
+    <string name="error_adding_product">Ошибка добавления товара</string>
+    <string name="error_updating_product">Ошибка обновления товара</string>
+    <string name="error_deleting_product">Ошибка удаления товара</string>
+
+
+    <string name="refresh">Обновить</string>
+    <string name="add">Добавить</string>
+    <string name="add_product">Добавить товар</string>
+    <string name="error_prefix">Ошибка: %1$s</string>
+    <string name="no_products">Нет товаров</string>
+
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_confirm_title">Подтвердите удаление</string>
+    <string name="delete_confirm_message">Вы уверены, что хотите удалить товар «%1$s»?</string>
+    <string name="price_format">%1$.2f₽</string>
+
+
+    <string name="edit_product_dialog_title">Редактирование товара</string>
+    <string name="change_image_button">Изменить изображение</string>
+    <string name="save_button">Сохранить</string>
+
+    <string name="order_status_label">Статус: </string>
+    <string name="order_date_label">Дата: </string>
+    <string name="order_client_label">Клиент: </string>
+    <string name="order_total_label">Сумма: </string>
+    <string name="order_total_format">%1$.2f ₽</string>
+    <string name="view_items_button">Товары</string>
+
+    <string name="order_items_title">Товары в заказе</string>
+    <string name="order_item_name">Товар: %1$s</string>
+    <string name="order_item_quantity">Количество: %1$d</string>
+    <string name="order_item_unit_price">Цена за единицу: %1$.2f ₽</string>
+    <string name="order_item_total_price">Сумма: %1$.2f ₽</string>
+    <string name="close_button">Закрыть</string>
+
+    <string name="error_loading_orders">Ошибка загрузки заказов</string>
+    <string name="error_updating_order">Ошибка обновления</string>
+
+    <string name="change_status_button">Изменить статус</string>
+
+    <string name="search_label">Поиск</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_users">Users</string>
+
+</resources>
